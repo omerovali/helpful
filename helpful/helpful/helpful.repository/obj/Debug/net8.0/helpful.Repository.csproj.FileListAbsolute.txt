@@ -1,0 +1,17 @@
+C:\helpful\helpful\helpful.repository\bin\Debug\net8.0\helpful.Repository.deps.json
+C:\helpful\helpful\helpful.repository\bin\Debug\net8.0\helpful.Repository.dll
+C:\helpful\helpful\helpful.repository\bin\Debug\net8.0\helpful.Repository.pdb
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.AssemblyInfoInputs.cache
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.AssemblyInfo.cs
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.csproj.CoreCompileInputs.cache
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.dll
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\refint\helpful.Repository.dll
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.pdb
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\ref\helpful.Repository.dll
+C:\helpful\helpful\helpful.repository\bin\Debug\net8.0\helpful.Repository.runtimeconfig.json
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.csproj.AssemblyReference.cache
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.genruntimeconfig.cache
+C:\helpful\helpful\helpful.repository\bin\Debug\net8.0\helpful.Core.dll
+C:\helpful\helpful\helpful.repository\bin\Debug\net8.0\helpful.Core.pdb
+C:\helpful\helpful\helpful.repository\obj\Debug\net8.0\helpful.Repository.csproj.CopyComplete

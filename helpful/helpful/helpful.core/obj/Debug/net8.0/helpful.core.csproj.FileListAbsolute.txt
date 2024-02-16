@@ -1,0 +1,11 @@
+C:\helpful\helpful\helpful.core\bin\Debug\net8.0\helpful.core.deps.json
+C:\helpful\helpful\helpful.core\bin\Debug\net8.0\helpful.core.dll
+C:\helpful\helpful\helpful.core\bin\Debug\net8.0\helpful.core.pdb
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\helpful.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\helpful.core.AssemblyInfoInputs.cache
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\helpful.core.AssemblyInfo.cs
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\helpful.core.csproj.CoreCompileInputs.cache
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\helpful.core.dll
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\refint\helpful.core.dll
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\helpful.core.pdb
+C:\helpful\helpful\helpful.core\obj\Debug\net8.0\ref\helpful.core.dll

@@ -1,0 +1,17 @@
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Service.deps.json
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Service.dll
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Service.pdb
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.AssemblyInfoInputs.cache
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.AssemblyInfo.cs
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.csproj.CoreCompileInputs.cache
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.dll
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\refint\helpful.Service.dll
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.pdb
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\ref\helpful.Service.dll
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Core.dll
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Repository.dll
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Repository.pdb
+C:\helpful\helpful\helpful.Service\bin\Debug\net8.0\helpful.Core.pdb
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.csproj.AssemblyReference.cache
+C:\helpful\helpful\helpful.Service\obj\Debug\net8.0\helpful.Service.csproj.CopyComplete
